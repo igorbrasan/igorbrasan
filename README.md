@@ -28,16 +28,17 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Java/OpenJDK](https://img.shields.io/badge/JAVA)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23ffffff.svg?style=for-the-badge&logo=Verilog&logoColor=black)
+![Java/OpenJDK](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openJDK&logoColor=black&labelColor=red&color=black)
+![Java/Oracle](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=black&labelColor=red&color=black)
+
 
 **Hardware:**
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![STM 32](https://img.shields.io/badge/STM32-%2300599C.svg?style=for-the-badge&logo=STM32&logoColor=black)
+
 
 
 **Sistemas Operacionais:**
@@ -45,6 +46,8 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=Manjaro&logoColor=white)
+
 
 
 **Vídeo, Imagem e 3D:**
