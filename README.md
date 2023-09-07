@@ -46,7 +46,6 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 
 
 
-
 **Sistemas Operacionais:**
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
