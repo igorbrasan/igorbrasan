@@ -1,14 +1,14 @@
-# André Paiva
-24yr | he/him
+# Igor Reis
+25yr | he/him
 
-Olá! Meu nome é André, mas pode me chamar de _And_ ou de _Xornotor_.
+Olá! Meu nome é Igor.
 
-Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação em 2023.2.
+Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Computação na UFBA.
 
 ## Áreas de conhecimento
-*  Microcontroladores e Sistemas Embarcados (Arduino, STM32, Raspberry Pi)
-*  Machine Learning/Deep Learning (Tensorflow, Keras)
-*  Desenvolvimento Web Básico (HTML, CSS, JavaScript e PHP)
+*  Microcontroladores e Sistemas Embarcados (Arduino)
+*  AV Industry (Salas de conferência, equipamentos - Cisco, crestron, Barco, Dante...)
+*  Desenvolvimento Web Básico (HTML, CSS, JavaScript, e Java)
 *  Design básico para FPGA's (Verilog)
 
 ## Tecnologias
@@ -18,17 +18,18 @@ Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA,
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://simpleicons.org/icons/intellijidea.svg)
+
 
 **Linguagens:**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java/OpenJDK](https://simpleicons.org/icons/openjdk.svg)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23ffffff.svg?style=for-the-badge&logo=Verilog&logoColor=black)
