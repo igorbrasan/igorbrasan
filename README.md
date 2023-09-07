@@ -60,7 +60,6 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 
 ![Inkscape](https://img.shields.io/badge/inkscape-grey?style=for-the-badge&logo=inkscape)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 **Outros:**
 
