@@ -18,6 +18,7 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
 
 
 **Linguagens:**
@@ -38,6 +39,9 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 **Hardware:**
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white&labelColor=blue&color=black)
+![Poly](https://img.shields.io/badge/Poly-black?style=for-the-badge&logo=poly&logoColor=red&labelColor=white&color=white)
+
 
 
 
@@ -52,10 +56,7 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 
 **Vídeo, Imagem e 3D:**
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Inkscape](https://img.shields.io/badge/inkscape-grey?style=for-the-badge&logo=inkscape)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
@@ -64,11 +65,13 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GCloud](https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=googlecloud)
+
 
 ## Estatísticas
 
 <div>
-<a href="https://github.com/Xornotor">
+<a href="https://github.com/igorbrasan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xornotor&layout=compact&langs_count=8&theme=cobalt"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xornotor&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorbrasan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
