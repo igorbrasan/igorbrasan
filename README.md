@@ -73,6 +73,6 @@ Sou Técnico em Audio e Vídeo (AVIXA - RAVT) e estou cursando Engenharia de Com
 
 <div>
 <a href="https://github.com/igorbrasan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xornotor&layout=compact&langs_count=8&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrasan&layout=compact&langs_count=8&theme=cobalt"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorbrasan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
